@@ -1,0 +1,28 @@
+.navBarBorder{
+    border-bottom: 2px solid hsl(0, 8%, 90%);
+}
+.border{
+    border-bottom: 2px solid hsl(0, 8%, 88%);
+    width: 70%;
+}
+.center{
+    display: flex;
+    justify-content:center
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding-left:70px;
+    padding-right: 70px;
+    column-gap: 25px;
+}
+.left{
+    flex:1;
+}
+.right{
+    flex:1;
+}
+
+.photoBorder{
+    border-radius: 50%;
+}
